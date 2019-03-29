@@ -1,1 +1,1 @@
-# az-103-azure-administator
+# az-103-azure-administrator
