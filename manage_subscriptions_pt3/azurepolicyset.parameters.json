@@ -1,0 +1,11 @@
+{
+    "LISTOFALLOWEDSKUS_1": 
+    
+    {
+        "type": "Array",
+        "metadata": {
+            "displayName": "VM SKUs",
+            "strongType": "vmSKUs"
+        }
+    }
+}
